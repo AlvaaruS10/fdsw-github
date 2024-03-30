@@ -5,9 +5,10 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-color: rgb(0, 0, 0);
+  background-image: url("../img/yo-portada.PNG");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: none;
   background-position: left;
 }
 
